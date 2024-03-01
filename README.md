@@ -17,7 +17,7 @@ Ce projet est une application mobile React Native qui permet aux utilisateurs de
 - `Account.tsx`: Ce composant gère l'affichage et la mise à jour des informations du compte utilisateur.
 - `Auth.tsx`: Ce composant permet aux utilisateurs de s'authentifier. Il gère les formulaires de connexion et d'inscription.
 
-### Dossier `/lib`
+- ### Dossier `/lib`
 - `supabase.tsx`: Ce fichier configure l'instance Supabase utilisée pour l'authentification et la base de données.
 
 
