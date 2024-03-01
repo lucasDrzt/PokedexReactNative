@@ -28,3 +28,6 @@ Ce projet est une application mobile React Native qui permet aux utilisateurs de
 ![image](https://github.com/lucasDrzt/PokedexReactNative/assets/115454870/e52bae12-ab1d-42ba-bab9-8ba31506f823)
 
 ![image](https://github.com/lucasDrzt/PokedexReactNative/assets/115454870/e072313e-a0c6-455a-a7b3-2b912e0dbbdd)
+
+
+lien vers le figma : https://www.figma.com/file/lW3E1QYgRZ8EzSLDMEzb0q/Untitled?type=design&node-id=3-104&mode=design&t=wSCYx9SY4CxQcwMh-0
