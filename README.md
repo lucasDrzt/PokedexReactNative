@@ -34,3 +34,12 @@ lien vers le figma : https://www.figma.com/file/lW3E1QYgRZ8EzSLDMEzb0q/Untitled?
 
 
 image du trello : ![image](https://github.com/lucasDrzt/PokedexReactNative/assets/115454870/cc103c90-84bb-4f58-8692-deca11ea7e7b)
+
+les persona: 
+![image](https://github.com/lucasDrzt/PokedexReactNative/assets/115454870/20dd6c17-4705-4149-8450-a210f30e35cc)
+![image](https://github.com/lucasDrzt/PokedexReactNative/assets/115454870/9dbfbaab-29e2-4230-9aa8-6a8ec9eb0ecb)
+![image](https://github.com/lucasDrzt/PokedexReactNative/assets/115454870/1aa40808-2757-4cdb-9a19-7cb469e2932b)
+![image](https://github.com/lucasDrzt/PokedexReactNative/assets/115454870/0542a188-a4b2-45e9-baf7-2099652c6493)
+
+diagrame de Gantt
+![image](https://github.com/lucasDrzt/PokedexReactNative/assets/115454870/247a1e53-86db-4ead-add6-f1bf772ce521)
