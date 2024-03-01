@@ -14,3 +14,10 @@ Ce projet est une application mobile React Native qui permet aux utilisateurs de
 - `TeamScreen.js`: Un composant d'écran qui utilise `TeamContext` pour afficher et gérer l'équipe de Pokémon de l'utilisateur.
 
 Chaque fichier est essentiel pour créer une expérience utilisateur complète et fonctionnelle dans l'application Pokédex.
+
+
+![image](https://github.com/lucasDrzt/PokedexReactNative/assets/115454870/1b016a98-3b25-4d54-b71f-a1a060ce73b6)
+
+![image](https://github.com/lucasDrzt/PokedexReactNative/assets/115454870/e52bae12-ab1d-42ba-bab9-8ba31506f823)
+
+![image](https://github.com/lucasDrzt/PokedexReactNative/assets/115454870/e072313e-a0c6-455a-a7b3-2b912e0dbbdd)
