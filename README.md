@@ -13,6 +13,14 @@ Ce projet est une application mobile React Native qui permet aux utilisateurs de
 - `TeamContext.js`: Fournit un contexte React pour gérer l'état de l'équipe de Pokémon de l'utilisateur à travers l'application.
 - `TeamScreen.js`: Un composant d'écran qui utilise `TeamContext` pour afficher et gérer l'équipe de Pokémon de l'utilisateur.
 
+- ### Dossier `/components`
+- `Account.tsx`: Ce composant gère l'affichage et la mise à jour des informations du compte utilisateur.
+- `Auth.tsx`: Ce composant permet aux utilisateurs de s'authentifier. Il gère les formulaires de connexion et d'inscription.
+
+### Dossier `/lib`
+- `supabase.tsx`: Ce fichier configure l'instance Supabase utilisée pour l'authentification et la base de données.
+
+
 
 
 ![image](https://github.com/lucasDrzt/PokedexReactNative/assets/115454870/1b016a98-3b25-4d54-b71f-a1a060ce73b6)
