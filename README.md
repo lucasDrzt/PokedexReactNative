@@ -31,3 +31,6 @@ Ce projet est une application mobile React Native qui permet aux utilisateurs de
 
 
 lien vers le figma : https://www.figma.com/file/lW3E1QYgRZ8EzSLDMEzb0q/Untitled?type=design&node-id=3-104&mode=design&t=wSCYx9SY4CxQcwMh-0
+
+
+image du trello : ![image](https://github.com/lucasDrzt/PokedexReactNative/assets/115454870/cc103c90-84bb-4f58-8692-deca11ea7e7b)
